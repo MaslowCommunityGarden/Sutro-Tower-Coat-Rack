@@ -15,3 +15,5 @@ Here's a picture of the real life sutro tower:
 Sutro Tower in real life CC-BY photo attribution Justin Beck
 
 This coat rack was one of the first things I made and I would really like to revisit it because I think I could design it better now.
+
+This coat rack was original featured in a [kickstarter update](http://www.maslowcnc.com/updates/2017/6/13/get-your-z-axis-a-coat-rack-and-a-big-blunder-feb-8th-updat)
